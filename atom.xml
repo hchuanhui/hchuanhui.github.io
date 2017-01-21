@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hchuanhui.github.io/"/>
-  <updated>2017-01-21T16:35:37.647Z</updated>
+  <updated>2017-01-21T16:39:24.674Z</updated>
   <id>https://hchuanhui.github.io/</id>
   
   <author>
@@ -20,14 +20,13 @@
     <link href="https://hchuanhui.github.io/2017/01/21/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89/"/>
     <id>https://hchuanhui.github.io/2017/01/21/博客搭建指南（部分）/</id>
     <published>2017-01-21T15:39:14.000Z</published>
-    <updated>2017-01-21T16:35:37.647Z</updated>
+    <updated>2017-01-21T16:39:24.674Z</updated>
     
     <content type="html"><![CDATA[<p><a href="http://jingyan.baidu.com/article/63f236280da7770208ab3d27.html" target="_blank" rel="external">Hexo 入门指南（三） - 文章 &amp; 草稿</a></p>
 <a id="more"></a>
 <p><a href="http://localhost:4000/" target="_blank" rel="external">hexo s</a></p>
 <p><a href="https://github.com/coneycode/hexo-git-backup" target="_blank" rel="external">可以用它来备份你的博客到git</a></p>
-<p>#相册</p>
-<p><a href="https://www.instagram.com/chuanhui_huang/" target="_blank" rel="external">instagram</a></p>
+<h1 id="相册"><a href="#相册" class="headerlink" title="相册"></a>相册</h1><p><a href="https://www.instagram.com/chuanhui_huang/" target="_blank" rel="external">instagram</a></p>
 <p><a href="https://github.com/litten/hexo-theme-yilia/wiki/%E5%90%8C%E6%AD%A5%E4%BD%A0%E7%9A%84instagram%E5%9B%BE%E7%89%87" target="_blank" rel="external">同步instagram图片</a></p>
 <p><a href="https://bobmckay.com/web/simple-tutorial-for-getting-an-instagram-clientid-and-access-token/" target="_blank" rel="external">获取client-id和user-id</a></p>
 <ul>
@@ -37,16 +36,14 @@
 <blockquote>
 <p><a href="https://github.com/litten" target="_blank" rel="external"><strong>litten GitHub</strong></a></p>
 </blockquote>
-<p>#博客资料</p>
-<ul>
+<h1 id="博客资料"><a href="#博客资料" class="headerlink" title="博客资料"></a>博客资料</h1><ul>
 <li><a href="http://www.geekcat.xyz/hexo/vps_dropbox_hexo.html" target="_blank" rel="external">VPS+Dropbox+markeditor打造Hexo完美体验</a></li>
 <li><a href="http://zhujiegao.com/2015/12/06/automatic-backup/" target="_blank" rel="external">自动备份Hexo博客源文件</a></li>
 <li><a href="http://www.codesec.net/view/399534.html" target="_blank" rel="external">轻松玩转feedsky:优化和调教自己博客的RSS</a></li>
 <li><a href="https://github.com/zfanswer/zfanswer.github.io" target="_blank" rel="external">小米饭Hexo(github)</a></li>
 </ul>
 <hr>
-<p>#####参考博客</p>
-<blockquote>
+<h5 id="参考博客"><a href="#参考博客" class="headerlink" title="参考博客"></a>参考博客</h5><blockquote>
 <p><a href="http://litten.me/" target="_blank" rel="external">litten</a><br><a href="http://blog.zfan.me/" target="_blank" rel="external">小米饭</a><br><a href="https://formulahendry.github.io/2016/12/04/hexo-ci/#more" target="_blank" rel="external">formulahendry</a></p>
 <ul>
 <li><a href="https://github.com/formulahendry/formulahendry.github.io" target="_blank" rel="external">formulahendry.github.io</a></li>
