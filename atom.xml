@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hchuanhui.github.io/"/>
-  <updated>2016-08-06T01:07:30.622Z</updated>
+  <updated>2017-01-21T10:57:47.255Z</updated>
   <id>https://hchuanhui.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://hchuanhui.github.io/2016/08/06/Battleship/"/>
     <id>https://hchuanhui.github.io/2016/08/06/Battleship/</id>
     <published>2016-08-06T00:05:10.000Z</published>
-    <updated>2016-08-06T01:07:30.622Z</updated>
+    <updated>2017-01-21T10:57:47.255Z</updated>
     
     <content type="html"><![CDATA[<p>推倒需要勇气，重来却需要超常勇气。<br><a id="more"></a></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div></pre></td><td class="code"><pre><div class="line">from random import randint</div><div class="line"></div><div class="line">board = []</div><div class="line"></div><div class="line">for x in range(5):</div><div class="line">    board.append([&quot;O&quot;] * 5)</div><div class="line"></div><div class="line">def print_board(board):</div><div class="line">    for row in board:</div><div class="line">        print &quot; &quot;.join(row)</div><div class="line">        </div><div class="line">print &quot;Let&apos;s play Battleship!&quot;</div><div class="line">print_board(board)</div><div class="line"></div><div class="line">def random_row(board):</div><div class="line">    return randint(0, len(board) - 1)</div><div class="line">    </div><div class="line">def random_col(board):</div><div class="line">    return randint(0, len(board[0]) - 1)</div><div class="line"></div><div class="line">#ship_row = random_row(board)</div><div class="line">#ship_col = random_col(board)</div><div class="line"></div><div class="line">for turn in range(3):</div><div class="line">    print &quot;Turn&quot;, turn + 1</div><div class="line">    </div><div class="line">    guess_row = int(raw_input(&quot;Guess Row:&quot;))</div><div class="line">    guess_col = int(raw_input(&quot;Guess Col:&quot;))</div><div class="line">    </div><div class="line">    if guess_row == ship_row and guess_col == ship_col:</div><div class="line">        print &quot;Congratulations! You sunk my battleship!&quot;</div><div class="line">        break</div><div class="line">    else:</div><div class="line">        if(guess_row &lt; 0 or guess_row &gt; 4) or (guess_col &lt; 0 or guess_col &gt; 4):</div><div class="line">            print &quot;Oops, that&apos;s not even in the ocean.&quot;</div><div class="line">        elif(board[guess_row][guess_col] == &quot;X&quot;):</div><div class="line">            print &quot;You guessed that one already.&quot;</div><div class="line">        else:</div><div class="line">            print &quot;You missed my battleship!&quot;</div><div class="line">            board[guess_row][guess_col] = &quot;X&quot;</div><div class="line">            </div><div class="line">            print_board(board)</div><div class="line">            </div><div class="line">    if(turn == 2):</div><div class="line">        print &quot;Game Over!&quot;</div><div class="line">        print &quot;ship_row&quot;, ship_row</div><div class="line">        print &quot;ship_col&quot;, ship_col</div></pre></td></tr></table></figure>
@@ -33,7 +33,7 @@
 <p>在编程上，不求通过，但求报错，甚至主动去出错，比如推倒重来。踏平的坑坑洼洼越多越好，这样才能铺出又远又好走的康庄大道。</p>
 <p>推倒重来，不光应用于编程，在很多方面都可以起到极大的效果。例如反复精读一本好书、看一篇好文章，也是推倒重来的应用。读完一本书，如果不能讲出一个大概，跟没看的人比起来没多大区别，看过后，能讲出个所以然，勉强能达到及格水平，将书中的内容应用到生活中，才算真正读懂了书。</p>
 <p>推倒需要勇气，重来却需要超常勇气。</p>
-<p>文|辉太狼叫兽<br>本文首发于微信公众号：我分享你享乐（gosharesoh）<br>2016-08-06</p>
+<p>文|破冰少年<br>2016-08-06</p>
 ]]></content>
     
     <summary type="html">
