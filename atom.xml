@@ -49,7 +49,7 @@
     <link href="https://hchuanhui.github.io/2017/01/21/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89/"/>
     <id>https://hchuanhui.github.io/2017/01/21/博客搭建指南（部分）/</id>
     <published>2017-01-21T15:39:14.000Z</published>
-    <updated>2017-01-22T05:20:41.618Z</updated>
+    <updated>2017-01-22T07:18:32.131Z</updated>
     
     <content type="html"><![CDATA[<hr>
 <p><a href="http://jingyan.baidu.com/article/63f236280da7770208ab3d27.html" target="_blank" rel="external">Hexo 入门指南（三） - 文章 &amp; 草稿</a><br><a id="more"></a></p>
@@ -60,8 +60,7 @@
 <p><a href="https://github.com/Mike-bel/hexo-theme-yilia-optimization" target="_blank" rel="external">添加文章底部版权声明</a></p>
 <h1 id="相册"><a href="#相册" class="headerlink" title="相册"></a>相册</h1><p><a href="https://www.instagram.com/chuanhui_huang/" target="_blank" rel="external">instagram</a></p>
 <p><a href="https://github.com/litten/hexo-theme-yilia/wiki/%E5%90%8C%E6%AD%A5%E4%BD%A0%E7%9A%84instagram%E5%9B%BE%E7%89%87" target="_blank" rel="external">同步instagram图片</a></p>
-<p><a href="https://bobmckay.com/web/simple-tutorial-for-getting-an-instagram-clientid-and-access-token/" target="_blank" rel="external">获取client-id和user-id</a></p>
-<p>#- <a href="https://instagram.com/oauth/authorize/?client_id=1f29ee86be8f4cf5a43888d21ea2f4ab&amp;redirect_uri=http://weibo.com/5703435004/profile?topnav=1&amp;wvr=6&amp;is_all=1&amp;response_type=token" target="_blank" rel="external">Step 2: Authorize your App/Client</a></p>
+<p><a href="https://bobmckay.com/web/simple-tutorial-for-getting-an-instagram-clientid-and-access-token/" target="_blank" rel="external">获取client-id和user-id</a><br><!-- -[Step 2: Authorize your App/Client](https://instagram.com/oauth/authorize/?client_id=1f29ee86be8f4cf5a43888d21ea2f4ab&amp;redirect_uri=http://weibo.com/5703435004/profile?topnav=1&wvr=6&is_all=1&amp;response_type=token)--></p>
 <p><a href="https://github.com/litten/zing-gallery" target="_blank" rel="external">基于node.js的web相册</a></p>
 <blockquote>
 <p><a href="https://github.com/litten" target="_blank" rel="external"><strong>litten GitHub</strong></a></p>
@@ -78,6 +77,7 @@
 <ul>
 <li><a href="https://github.com/formulahendry/formulahendry.github.io" target="_blank" rel="external">formulahendry.github.io</a></li>
 </ul>
+<p><a href="http://threehao.com/about/" target="_blank" rel="external">想做的博客</a></p>
 </blockquote>
 ]]></content>
     
