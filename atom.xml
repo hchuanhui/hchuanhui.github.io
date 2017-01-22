@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hchuanhui.github.io/"/>
-  <updated>2017-01-22T03:19:36.148Z</updated>
+  <updated>2017-01-22T04:03:20.438Z</updated>
   <id>https://hchuanhui.github.io/</id>
   
   <author>
@@ -16,11 +16,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>场景动词及隐含信息</title>
+    <link href="https://hchuanhui.github.io/2017/01/22/%E5%9C%BA%E6%99%AF%E5%8A%A8%E8%AF%8D%E5%8F%8A%E9%9A%90%E5%90%AB%E4%BF%A1%E6%81%AF/"/>
+    <id>https://hchuanhui.github.io/2017/01/22/场景动词及隐含信息/</id>
+    <published>2017-01-22T03:33:46.000Z</published>
+    <updated>2017-01-22T04:03:20.438Z</updated>
+    
+    <content type="html"><![CDATA[<p>-</p>
+<blockquote>
+<p>本文内容涉及《对象英语语法》第十四章</p>
+</blockquote>
+<h5 id="1-1-场景动词"><a href="#1-1-场景动词" class="headerlink" title="1.1 场景动词"></a>1.1 场景动词</h5><p>I <strong>water</strong> the plants.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;-&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本文内容涉及《对象英语语法》第十四章&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&quot;1-1-场景动词&quot;&gt;&lt;a href=&quot;#1-1-场景动词&quot; class=&quot;headerlink&quot; title=&quot;1.1 场景动词&quot;&gt;&lt;/a&gt;
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://hchuanhui.github.io/tags/English/"/>
+    
+      <category term="说_场动" scheme="https://hchuanhui.github.io/tags/%E8%AF%B4-%E5%9C%BA%E5%8A%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>博客搭建指南（部分）</title>
     <link href="https://hchuanhui.github.io/2017/01/21/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89/"/>
     <id>https://hchuanhui.github.io/2017/01/21/博客搭建指南（部分）/</id>
     <published>2017-01-21T15:39:14.000Z</published>
-    <updated>2017-01-22T03:19:36.148Z</updated>
+    <updated>2017-01-22T03:47:32.051Z</updated>
     
     <content type="html"><![CDATA[<hr>
 <p><a href="http://jingyan.baidu.com/article/63f236280da7770208ab3d27.html" target="_blank" rel="external">Hexo 入门指南（三） - 文章 &amp; 草稿</a></p>
@@ -28,6 +59,7 @@
 <p>查看node.js和npm版本：‘node -v’、‘npm -v’</p>
 <p><a href="http://localhost:4000/" target="_blank" rel="external">hexo s</a></p>
 <p><a href="https://github.com/coneycode/hexo-git-backup" target="_blank" rel="external">可以用它来备份你的博客到git</a></p>
+<p><a href="https://github.com/Mike-bel/hexo-theme-yilia-optimization" target="_blank" rel="external">添加文章底部版权声明</a></p>
 <h1 id="相册"><a href="#相册" class="headerlink" title="相册"></a>相册</h1><p><a href="https://www.instagram.com/chuanhui_huang/" target="_blank" rel="external">instagram</a></p>
 <p><a href="https://github.com/litten/hexo-theme-yilia/wiki/%E5%90%8C%E6%AD%A5%E4%BD%A0%E7%9A%84instagram%E5%9B%BE%E7%89%87" target="_blank" rel="external">同步instagram图片</a></p>
 <p><a href="https://bobmckay.com/web/simple-tutorial-for-getting-an-instagram-clientid-and-access-token/" target="_blank" rel="external">获取client-id和user-id</a></p>
